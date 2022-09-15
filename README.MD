@@ -50,7 +50,7 @@
 
   
 
-- <a href="https://tielson.github.io/NumeroDaSorte/">Project</a>
+- <a href="https://tielson.github.io/LuckyNumber/">Project</a>
 
 
 
